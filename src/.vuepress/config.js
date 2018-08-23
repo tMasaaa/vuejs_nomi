@@ -1,7 +1,6 @@
 module.exports = {
     title: 'のみろぐ',
     description: 'Just playing around',
-    base: '/nomi/',
     dest: 'docs',
     head: [
         ['link',
