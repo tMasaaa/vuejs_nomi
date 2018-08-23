@@ -1,6 +1,7 @@
 module.exports = {
     title: 'のみろぐ',
     description: 'Just playing around',
+    base: '/vuejs_nomi/',
     dest: 'docs',
     head: [
         ['link',
