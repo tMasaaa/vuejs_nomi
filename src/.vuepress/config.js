@@ -2,7 +2,7 @@ module.exports = {
     title: 'のみろぐ',
     description: 'Just playing around',
     base: '/nomi/',
-    dest: '.vuepress/dist',
+    dest: 'docs',
     head: [
         ['link',
             { rel: 'stylesheet', href: 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css' }
