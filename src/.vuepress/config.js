@@ -44,7 +44,8 @@ module.exports = {
         ['link',
             {
                 rel: 'icon',
-                href: '/img/nomi-1.ico'
+                type: 'image/png',
+                href: '/nomi-1.png'
             }
         ]
     ],
